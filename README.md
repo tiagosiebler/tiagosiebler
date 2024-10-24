@@ -37,7 +37,7 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 ## About Me
 
 - 💻 Node.js, JavaScript, and TypeScript dev
-- 🚀 Sharing open-source software: https://github.com/tiagosiebler
+- 🚀 Sharing open-source software: [https://github.com/tiagosiebler](https://github.com/tiagosiebler?tab=repositories)
 
 ## 📫 Get in Touch
 
