@@ -36,6 +36,8 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 
 ## About Me
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosiebler&show_icons=true&theme=swift)
+
 - 💻 Node.js, JavaScript, and TypeScript dev
 - 🚀 Sharing open-source software: [https://github.com/tiagosiebler](https://github.com/tiagosiebler?tab=repositories)
 
