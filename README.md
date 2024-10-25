@@ -2,6 +2,8 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/tiagosiebler)](https://github.com/tiagosiebler)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fquantsdks&label=Twitter)](https://x.com/quantsdks)
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosiebler&show_icons=true&theme=swift)
+
 ## 🚀 Crypto Exchange SDKs
 
 We've developed Node.js SDKs for various popular cryptocurrency exchanges, providing easy-to-use interfaces for both REST APIs and WebSockets. Check out our Node.js SDKs and packages, available on NPM & GitHub:
@@ -35,8 +37,6 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 🔍 Check out [awesome-crypto-examples](https://github.com/tiagosiebler/awesome-crypto-examples) for practical Node.js implementations!
 
 ## About Me
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosiebler&show_icons=true&theme=swift)
 
 - 💻 Node.js, JavaScript, and TypeScript dev
 - 🚀 Sharing open-source software: [https://github.com/tiagosiebler](https://github.com/tiagosiebler?tab=repositories)
