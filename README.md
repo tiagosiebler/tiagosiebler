@@ -20,12 +20,14 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 | BitMart | [tiagosiebler/bitmart-api](https://github.com/tiagosiebler/bitmart-api) | [![npm version](https://img.shields.io/npm/v/bitmart-api.svg?style=flat-square)](https://www.npmjs.com/package/bitmart-api) | [![npm downloads](https://img.shields.io/npm/dt/bitmart-api?style=flat-square)](https://www.npmjs.com/package/bitmart-api) |
 
 ### Key Features:
+- Open-source
 - Full TypeScript support
 - Comprehensive API coverage
 - Robust WebSocket integration
+- REST-like WebSocket API integration
 - Excellent documentation
 - Regular updates and maintenance
-- Open-source
+- Years of reputation with thousands of users
 
 ### Utilities
 
