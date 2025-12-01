@@ -2,8 +2,9 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/tiagosiebler)](https://github.com/tiagosiebler)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fquantsdks&label=Twitter)](https://x.com/quantsdks)
 
+<!--
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosiebler&show_icons=true&theme=swift)
-
+-->
 # Siebly.io
 
 TypeScript-first SDKs for CEX & DEX REST APIs & WebSockets. Built with precision. Designed & heavily used by algorithmic traders.
