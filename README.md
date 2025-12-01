@@ -4,6 +4,14 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosiebler&show_icons=true&theme=swift)
 
+# Siebly.io
+
+TypeScript-first SDKs for CEX & DEX REST APIs & WebSockets. Built with precision. Designed & heavily used by algorithmic traders.
+
+Take a look at our website: https://siebly.io/
+
+----
+
 ## 🚀 Crypto Exchange SDKs
 
 We've developed Node.js SDKs for various popular cryptocurrency exchanges, providing easy-to-use interfaces for both REST APIs and WebSockets. Check out our Node.js SDKs and packages, available on NPM & GitHub:
@@ -17,6 +25,7 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 | Bitget | [tiagosiebler/bitget-api](https://github.com/tiagosiebler/bitget-api) | [![npm version](https://img.shields.io/npm/v/bitget-api.svg?style=flat-square)](https://www.npmjs.com/package/bitget-api) | [![npm downloads](https://img.shields.io/npm/dt/bitget-api?style=flat-square)](https://www.npmjs.com/package/bitget-api) |
 | KuCoin | [tiagosiebler/kucoin-api](https://github.com/tiagosiebler/kucoin-api) | [![npm version](https://img.shields.io/npm/v/kucoin-api.svg?style=flat-square)](https://www.npmjs.com/package/kucoin-api) | [![npm downloads](https://img.shields.io/npm/dt/kucoin-api?style=flat-square)](https://www.npmjs.com/package/kucoin-api) |
 | Coinbase | [tiagosiebler/coinbase-api](https://github.com/tiagosiebler/coinbase-api) | [![npm version](https://img.shields.io/npm/v/coinbase-api.svg?style=flat-square)](https://www.npmjs.com/package/coinbase-api) | [![npm downloads](https://img.shields.io/npm/dt/coinbase-api?style=flat-square)](https://www.npmjs.com/package/coinbase-api) |
+| Kraken | [sieblyio/kraken-api](https://github.com/sieblyio/kraken-api) | [![npm version](https://img.shields.io/npm/v/@siebly/kraken-api.svg?style=flat-square)](https://www.npmjs.com/package/@siebly/kraken-api) | [![npm downloads](https://img.shields.io/npm/dt/@siebly/kraken-api?style=flat-square)](https://www.npmjs.com/package/@siebly/kraken-api) |
 | BitMart | [tiagosiebler/bitmart-api](https://github.com/tiagosiebler/bitmart-api) | [![npm version](https://img.shields.io/npm/v/bitmart-api.svg?style=flat-square)](https://www.npmjs.com/package/bitmart-api) | [![npm downloads](https://img.shields.io/npm/dt/bitmart-api?style=flat-square)](https://www.npmjs.com/package/bitmart-api) |
 
 ### Key Features:
