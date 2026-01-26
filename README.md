@@ -1,15 +1,19 @@
 [![GitHub followers](https://img.shields.io/github/followers/tiagosiebler?label=Follow&style=social)](https://github.com/tiagosiebler)
 [![GitHub User's stars](https://img.shields.io/github/stars/tiagosiebler)](https://github.com/tiagosiebler)
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsieblyio&label=Twitter)](https://x.com/sieblyio)
 
 <!--
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosiebler&show_icons=true&theme=swift)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsieblyio&label=Twitter)](https://x.com/sieblyio)
 -->
 # Siebly.io
 
 TypeScript-first SDKs for CEX & DEX REST APIs & WebSockets. Built with precision. Designed & heavily used by algorithmic traders.
 
 Take a look at our website: https://siebly.io/
+
+# Notice
+
+There is **no** coin launch. We are not lanuching a coin. Follow our updates on twitter: https://x.com/sieblyio
 
 ----
 
