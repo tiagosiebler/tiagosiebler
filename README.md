@@ -8,7 +8,7 @@
 ----
 # Notice
 
-There is **no** coin launch. We are not lanuching a coin. Follow our updates on twitter: https://x.com/sieblyio
+There is **no** coin launch. We are not launching a coin. Follow our updates on twitter: https://x.com/sieblyio
 
 ----
 # Siebly.io
