@@ -10,10 +10,10 @@
 
 TypeScript-first SDKs for CEX & DEX REST APIs & WebSockets. Built with precision. Designed & heavily used by algorithmic traders.
 
-Take a look at our website: https://siebly.io/
+Take a look at our website: [Siebly.io](https://siebly.io/?ref=ghts)
 
 > [!TIP]
-> Upcoming change: As part of the Siebly.io brand, all our SDKs will soon be hosted under the [Siebly.io GitHub organisation](https://github.com/sieblyio). The migration is seamless and requires no user changes.
+> Upcoming change: As part of the [Siebly.io](https://siebly.io/?ref=ghts) brand, all our SDKs will soon be hosted under the [Siebly.io GitHub organisation](https://github.com/sieblyio). The migration is seamless and requires no user changes.
 
 ## 🚀 Crypto Exchange SDKs
 
@@ -56,7 +56,7 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 - 💻 Node.js, JavaScript, and TypeScript dev
 - 🚀 Sharing open-source software: [https://github.com/tiagosiebler](https://github.com/tiagosiebler?tab=repositories)
 - 🚀 Siebly on GitHub: [https://github.com/sieblyio](https://github.com/sieblyio)
-- 🚀 Siebly.io Website: [https://siebly.io](https://siebly.io)
+- 🚀 Siebly.io Website: [https://siebly.io](https://siebly.io/?ref=ghts)
 
 ## 📫 Get in Touch
 
