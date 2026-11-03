@@ -9,7 +9,7 @@ TypeScript-first SDKs for CEX & DEX REST APIs & WebSockets. Built with precision
 Take a look at our website: [Siebly.io](https://siebly.io/) and [Algorithmic Systems Blog](https://blog.siebly.io).
 
 > [!TIP]
-> Upcoming change: As part of the [Siebly.io](https://siebly.io/) brand, all our SDKs are now hosted under the [Siebly.io GitHub organisation](https://github.com/sieblyio). The migration is seamless and requires no user changes.
+> As part of the [Siebly.io](https://siebly.io/) brand, all our SDKs are now hosted under the [Siebly.io GitHub organisation](https://github.com/sieblyio). The migration is seamless and requires no user changes.
 
 ## 🚀 Crypto Exchange SDKs
 
