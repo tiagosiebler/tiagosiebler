@@ -2,18 +2,14 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/tiagosiebler)](https://github.com/tiagosiebler)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsieblyio&label=Twitter)](https://x.com/sieblyio)
 
-<!--
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosiebler&show_icons=true&theme=swift)
--->
-
 # Siebly.io
 
 TypeScript-first SDKs for CEX & DEX REST APIs & WebSockets. Built with precision. Designed & heavily used by algorithmic traders.
 
-Take a look at our website: [Siebly.io](https://siebly.io/)
+Take a look at our website: [Siebly.io](https://siebly.io/) and [Algorithmic Systems Blog](https://blog.siebly.io).
 
 > [!TIP]
-> Upcoming change: As part of the [Siebly.io](https://siebly.io/) brand, all our SDKs will soon be hosted under the [Siebly.io GitHub organisation](https://github.com/sieblyio). The migration is seamless and requires no user changes.
+> Upcoming change: As part of the [Siebly.io](https://siebly.io/) brand, all our SDKs are now hosted under the [Siebly.io GitHub organisation](https://github.com/sieblyio). The migration is seamless and requires no user changes.
 
 ## 🚀 Crypto Exchange SDKs
 
@@ -30,6 +26,11 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 | Coinbase | [sieblyio/coinbase-api](https://github.com/sieblyio/coinbase-api) | [![npm version](https://img.shields.io/npm/v/coinbase-api.svg?style=flat-square)](https://www.npmjs.com/package/coinbase-api)             | [![npm downloads](https://img.shields.io/npm/dt/coinbase-api?style=flat-square)](https://www.npmjs.com/package/coinbase-api)             | [Coinbase JavaScript SDK Tutorial](https://siebly.io/sdk/coinbase/javascript/tutorial) |
 | Kraken   | [sieblyio/kraken-api](https://github.com/sieblyio/kraken-api)     | [![npm version](https://img.shields.io/npm/v/@siebly/kraken-api.svg?style=flat-square)](https://www.npmjs.com/package/@siebly/kraken-api) | [![npm downloads](https://img.shields.io/npm/dt/@siebly/kraken-api?style=flat-square)](https://www.npmjs.com/package/@siebly/kraken-api) | [Kraken JavaScript SDK Tutorial](https://siebly.io/sdk/kraken/javascript/tutorial)     |
 | HTX   | [sieblyio/htx-api](https://github.com/sieblyio/htx-api)     | [![npm version](https://img.shields.io/npm/v/@siebly/htx-api.svg?style=flat-square)](https://www.npmjs.com/package/@siebly/htx-api) | [![npm downloads](https://img.shields.io/npm/dt/@siebly/htx-api?style=flat-square)](https://www.npmjs.com/package/@siebly/htx-api) | [HTX JavaScript SDK Tutorial](https://siebly.io/sdk/htx/javascript/tutorial)     |
+| Hyperliquid   | [sieblyio/hyperliquid-api](https://github.com/sieblyio/hyperliquid-api)     | [![npm version](https://img.shields.io/npm/v/@siebly/hyperliquid-api.svg?style=flat-square)](https://www.npmjs.com/package/@siebly/hyperliquid-api) | [![npm downloads](https://img.shields.io/npm/dt/@siebly/hyperliquid-api?style=flat-square)](https://www.npmjs.com/package/@siebly/hyperliquid-api) | [Hyperliquid JavaScript SDK Tutorial](https://siebly.io/sdk/hyperliquid/javascript/tutorial)     |
+
+
+> [!TIP]
+> New: Check out our brand new Hyperliquid SDK for all JavaScript & Node.js ecosystems, built in the performant and reliable architecture our SDKs are built on: [Hyperliquid JavaScript SDK](https://www.npmjs.com/package/@siebly/hyperliquid-api). 
 
 
 ### Key Features:
@@ -50,12 +51,14 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 
 ### Examples
 
-🔍 Check out [awesome-crypto-examples](https://github.com/sieblyio/awesome-crypto-examples) for practical Node.js implementations!
+🔍 Check out [awesome-crypto-examples](https://github.com/sieblyio/awesome-crypto-examples) for practical Node.js implementations.
+
+🔍 Read our [Algorithmic Trading Blog](https://blog.siebly.io) for tutorials, guides and best practices for building resilient algorithmic systems.
 
 ## About Me
 
 - 💻 Node.js, JavaScript, and TypeScript dev
-- 🚀 Sharing open-source software: [https://github.com/tiagosiebler](https://github.com/tiagosiebler?tab=repositories)
+- 🚀 Sharing open-source software: [https://github.com/tiagosiebler](https://github.com/tiagosiebler?tab=repositories) 
 - 🚀 Siebly on GitHub: [https://github.com/sieblyio](https://github.com/sieblyio)
 - 🚀 Siebly.io Website: [https://siebly.io](https://siebly.io/)
 - Crypto APIs with AI: [Siebly.io AI Prompt Framework](https://siebly.io/ai)
