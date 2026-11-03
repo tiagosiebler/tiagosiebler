@@ -30,7 +30,7 @@ We've developed Node.js SDKs for various popular cryptocurrency exchanges, provi
 
 
 > [!TIP]
-> New: Check out our brand new Hyperliquid SDK for all JavaScript & Node.js ecosystems, built in the performant and reliable architecture our SDKs are built on: [Hyperliquid JavaScript SDK](https://www.npmjs.com/package/@siebly/hyperliquid-api). 
+> New: Check out our brand new Hyperliquid SDK for all JavaScript & Node.js ecosystems, built in the performant and reliable architecture all our SDKs are built on: [Hyperliquid JavaScript SDK](https://www.npmjs.com/package/@siebly/hyperliquid-api). 
 
 
 ### Key Features:
