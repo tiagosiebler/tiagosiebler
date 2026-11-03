@@ -6,6 +6,9 @@
 
 TypeScript-first SDKs for CEX & DEX REST APIs & WebSockets. Built with precision. Designed & heavily used by algorithmic traders.
 
+[![GitHub followers](https://img.shields.io/github/followers/sieblyio?label=Follow&style=social)](https://github.com/sieblyio)
+[![Siebly.io's stars](https://img.shields.io/github/stars/sieblyio)](https://github.com/sieblyio)
+
 Take a look at our website: [Siebly.io](https://siebly.io/) and [Algorithmic Systems Blog](https://blog.siebly.io).
 
 > [!TIP]
